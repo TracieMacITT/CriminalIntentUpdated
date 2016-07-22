@@ -19,6 +19,7 @@ import java.util.GregorianCalendar;
  * Created by Tracie on 5/1/2016.
  */
 public class DatePickerFragment extends DialogFragment {
+
     public static final String EXTRA_DATE = "com.mclaughlin.tracie.criminalintent.date";
 
     private Date mDate;
